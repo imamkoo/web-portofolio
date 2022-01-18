@@ -3969,8 +3969,8 @@ body.is-preload #wrapper {
 
 }
 
-#first {
-	background-image: url(/web-portofolio/images/bg.jpg);
+.about {
+	background-color: #e1e6e1;
 }
 
 .tossing {
